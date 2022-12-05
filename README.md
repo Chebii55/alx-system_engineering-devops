@@ -1,1 +1,2 @@
-My first readme
+#!/bin/bash
+all about Redirections and filters
